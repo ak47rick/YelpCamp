@@ -1,7 +1,10 @@
 # YelpCamp
-https://yelpcamp2017.herokuapp.com/campgrounds
 
-A Yelp like RESTful web application for camping
+A web application allow users to write reviews about campgrounds and comments on them.
+
+running on: https://yelpcamp2017.herokuapp.com/campgrounds
+
+Stack: Mongodb Node Express
 
 INSTRUCTION:
 
